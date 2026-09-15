@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(243, 223, 255);
+    background-color: lightcyan;
 }
 
 h1 {
@@ -21,7 +21,7 @@ ul{
     list-style-type: square;
 } 
 .difcolor{
-    color: rgb(255, 41, 77); 
+    color: red; 
 } 
 
 img{
